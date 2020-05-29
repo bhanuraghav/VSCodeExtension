@@ -1,0 +1,13 @@
+Steps : 
+1.	Download the zip file.
+2.	Open the extracted  folder in VS code.
+3.	Open the terminal and run command “npm install”
+4.	Press F5 to open Extension Development Host Window.
+5.	In Extension Development Host Window : Open new  file and save as  .txt format(eg. abc.txt).
+6.	Press CTRL+Shift+P and select “Hello World” in command pallete.
+7.	Now write your grammar in abc.txt.
+
+In debug console :
+	We can see the current list of concepts stored in array.
+In abc.txt file : 
+	When we type static: , extension suggest us several suggestions.
